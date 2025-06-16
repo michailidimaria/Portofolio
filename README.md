@@ -3,7 +3,7 @@
 **Current job**
 
 
-_Training _:  Undemy
+Training:  Undemy
 1kdkdkdk
 kdkdkdkd
 ksdjf
