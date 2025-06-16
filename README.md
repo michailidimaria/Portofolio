@@ -1,7 +1,12 @@
-# Portofolio - Maria Michailidi
+**Portofolio - Maria Michailidi**
 
-##Current job
+**Current job**
 
-###Training :  Undemy
 
-###Linkding:
+###_Training _:  Undemy
+1kdkdkdk
+kdkdkdkd
+ksdjf
+
+
+###Linkding: https://
