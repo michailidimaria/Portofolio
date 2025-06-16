@@ -3,10 +3,10 @@
 **Current job**
 
 
-###_Training _:  Undemy
+_Training _:  Undemy
 1kdkdkdk
 kdkdkdkd
 ksdjf
 
 
-###Linkding: https://
+Linkding: https://
