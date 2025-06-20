@@ -40,7 +40,8 @@ The output of the program consist of two float numbers. They represent the:
 
 
 **Parameters Summary**
-**Parameter	Endpoint	      Type	           Description**
+**|Parameter	Endpoint|	      Type	     |      Description** |
+| ----------- | ----------- |
 access_key	All	            required	        Authentication key
 hostname	Standard, Bulk	     flag	        Include DNS hostname
 security	Standard, Bulk	     flag	        Enable security data
